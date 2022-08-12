@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.spase {
+  height: 1000px;
+  background-color: aqua;
+}
+.container {
+  text-align: center;
+  margin: 300px;
+}
+.num {
+  margin: 50px;
+  font-size: 40px;
+}
